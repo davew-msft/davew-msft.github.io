@@ -1,4 +1,6 @@
-## Thinking like a data scientist 12/10 1-4
+## Thinking like a Data Scientist 
+
+December 10 1-4pm EST
 
 Does data science terminology seem overly confusing? Would you like to learn more about data science but are scared of the math? You don't need to hire "data scientists" to think like a data scientist.  Fact is, you’re probably doing “data science” today. You don’t need to know a lot of python to be an effective data scientist. We’ll cover important terminology and use cases and then dive-in by exploring data with tools you are already using. Even if you employ data scientists today this session will help you understand how to work better with data.  
 
@@ -32,6 +34,31 @@ A Microsoft Teams meeting link will be sent to this email address 2 days before 
 
 Most companies are doing reporting and dashboarding (Descriptive Analytics) today and some are doing Predictive Analytics (ML, AI, data science).  The future is Prescriptive Analytics...using data to solve complex business problems.  Business leaders want to know..."what do I do next?".  This requires thinking differently about how you utilize data.  We'll discuss the tech, but more importantly, how to think about data differently and structure a successful Prescriptive Analytics team that can use data to support a decision architecture.  
 
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7_dtp.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://davewentzel.us20.list-manage.com/subscribe/post?u=342a8debdff4ff5e8fd8bed58&amp;id=463a843152" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">something</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_342a8debdff4ff5e8fd8bed58_463a843152" tabindex="-1" value=""></div>
+        <div class="optionalParent">
+            <div class="clear foot">
+                <input type="submit" value="RSVP" name="subscribe" id="mc-embedded-subscribe" class="button">
+                <p class="brandingLogo"></p>
+            </div>
+        </div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
 
 ## How to NOT make analytical cognitive mistakes 2hour 12/6 1-3
 

@@ -47,7 +47,9 @@ Most companies already have a data Center of Excellence.  But is it optimized fo
 
 
 
+# RSVP Today!
 
+Please RSVP.  We promise we won't spam you.  **A Microsoft Teams meeting invite will be sent to you a few days before the event.**  We are not yet sure we will record these sessions.  
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
@@ -66,11 +68,11 @@ Most companies already have a data Center of Excellence.  But is it optimized fo
 </div>
 <div class="mc-field-group input-group">
     <strong>Sessions </strong>
-    <ul><li><input type="checkbox" value="1" name="group[22088][1]" id="mce-group[22088]-22088-0"><label for="mce-group[22088]-22088-0">Thinking Like a Data Scientist</label></li>
-<li><input type="checkbox" value="2" name="group[22088][2]" id="mce-group[22088]-22088-1"><label for="mce-group[22088]-22088-1">Prescriptive Analytics</label></li>
-<li><input type="checkbox" value="4" name="group[22088][4]" id="mce-group[22088]-22088-2"><label for="mce-group[22088]-22088-2">Cognitive Mistakes</label></li>
-<li><input type="checkbox" value="8" name="group[22088][8]" id="mce-group[22088]-22088-3"><label for="mce-group[22088]-22088-3">Design Thinking</label></li>
-<li><input type="checkbox" value="16" name="group[22088][16]" id="mce-group[22088]-22088-4"><label for="mce-group[22088]-22088-4">Building a CoE</label></li>
+    <ul><li><input type="checkbox" value="1" name="group[22088][1]" id="mce-group[22088]-22088-0"><label for="mce-group[22088]-22088-0">Thinking Like a Data Scientist:  December 10 1-4pm EST</label></li>
+<li><input type="checkbox" value="2" name="group[22088][2]" id="mce-group[22088]-22088-1"><label for="mce-group[22088]-22088-1">Prescriptive Analytics:  December 15 1-3pm EST</label></li>
+<li><input type="checkbox" value="4" name="group[22088][4]" id="mce-group[22088]-22088-2"><label for="mce-group[22088]-22088-2">Cognitive Mistakes:  December 6 1-3pm EST</label></li>
+<li><input type="checkbox" value="8" name="group[22088][8]" id="mce-group[22088]-22088-3"><label for="mce-group[22088]-22088-3">Design Thinking:  December 17 1-3pm EST</label></li>
+<li><input type="checkbox" value="16" name="group[22088][16]" id="mce-group[22088]-22088-4"><label for="mce-group[22088]-22088-4">Building a Data CoE:  December 16 1-3pm EST</label></li>
 </ul>
 </div>
 	<div id="mce-responses" class="clear foot">
@@ -80,8 +82,8 @@ Most companies already have a data Center of Excellence.  But is it optimized fo
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_342a8debdff4ff5e8fd8bed58_463a843152" tabindex="-1" value=""></div>
         <div class="optionalParent">
             <div class="clear foot">
-                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                <p class="brandingLogo"><a href="http://eepurl.com/hNz0Fv" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
+                <input type="submit" value="RSVP!" name="subscribe" id="mc-embedded-subscribe" class="button">
+                <p class="brandingLogo"></p>
             </div>
         </div>
     </div>

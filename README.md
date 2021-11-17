@@ -8,7 +8,7 @@ The Microsoft Technology Center (MTC) delivers immersive engagements focused on 
 
 >"We have a data lake, a data warehouse, and Power BI...but no one has still been able to show us how to leverage our data assets to provide actionable intelligence."  -- _heard during a recent MTC engagement_
 
-## Thinking like a Data Scientist 
+## Thinking Like a Data Scientist 
 
 ### December 10 1-4pm EST
 

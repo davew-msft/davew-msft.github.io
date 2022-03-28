@@ -6,7 +6,7 @@
 Dave Wentzel
 [LinkedIn Profile](https://linkedin.com/in/dwentzel)  
 Philadelphia Microsoft Technology Center  
-
+   
 
 
 Data warehouses (EDWs/DWHs) have their use cases, but they might be stifling your analytics innovations in 2022.  
